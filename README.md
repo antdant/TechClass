@@ -119,9 +119,7 @@
 
 [手动DIY一个自己的图床，再也不怕第三方图床gg了](tools/github_pic_bed.md)
 
-## TODO
-
-- [ ] linux 常用命令系列
+## 
 
 
 

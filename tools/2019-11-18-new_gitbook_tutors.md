@@ -102,3 +102,11 @@ $ git commit -m "Publish book"
 [官方指引-integrations-Github](https://docs.gitbook.com/integrations/github)   
 [Github的GitBook项目](https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md)  
 [github pages中文帮助](https://help.github.com/cn/github/working-with-github-pages/about-github-pages)
+
+文章首发个人技术公众号「**后端技术学堂**」，**目标是成为技术人的充电学堂**。
+
+**欢迎扫码关注，分享、记录、成长！**
+
+<p align="center">
+<img src="https://github.com/lemonchann/images/raw/master/gzh/公众号二维码.png" width="300" height="300"/>
+</p>
