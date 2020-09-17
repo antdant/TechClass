@@ -8,6 +8,8 @@
 
 如你所见，索引的存在作用就是加快了我们查找内容的速度，在数据库中索引也是这个作用。
 
+
+
 ### MySQl索引有哪些类型？
 
 两大类索引类型：B+ Tree索引 和 Hash 索引。
@@ -71,15 +73,13 @@ MyISAM 支持表锁，InnoDB支持表锁和行锁，默认为行锁。由于MySQ
 
 
 
-
-
-
-
 ## MySQL事务
 
 事务就是「一组原子性的SQL查询」，或者说一个独立的工作单元。如果数据库引擎能够成功地对数据库应用该组查询的全部语句，那么就执行该组查询。如果其中有任何一条语句因为崩溃或其他原因无法执行，那么所有的语句都不会执行。也就是说，事务内的语句，要么全部执行成功，要么全部执行失败。
 
 事务这块我之前写过一篇文章来分析，更细致的了解，点这个传送门：[面试官：你说对MySQL事务很熟，那我问你十个问题](//mp.weixin.qq.com/s?__biz=MzIwMjM4NDE1Nw==&mid=2247483807&idx=1&sn=760d3b36c3742b0413b7f6f095506fd5&chksm=96de37eda1a9befb371bf03653df7528921262c95ab1483b4ecb86a25a8315a9598c723adaa5&token=969827033&lang=zh_CN#rd)
+
+
 
 ### 事务例子
 
@@ -98,6 +98,8 @@ UPDATE CMBC SET balance = balance - 1000000.00 WHERE username = 'lemon';
 UPDATE CMBC SET balance = balance + 1000000.00 WHERE username = 'lemon';
 COMMIT;
 ```
+
+
 
 ### 事务ACID
 
