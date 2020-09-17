@@ -372,3 +372,11 @@ _include/svg-icons.html生成社交头像的链接
 感谢Jekyll提供的技术支持才能有这个博客。
 
 感谢[LOFFER](https://fromendworld.github.io/LOFFER/document/)提供的原始模板，我在其上进行的二次开发。
+
+文章首发个人技术公众号「**后端技术学堂**」，**目标是成为技术人的充电学堂**。
+
+**欢迎扫码关注，分享、记录、成长！**
+
+<p align="center">
+<img src="https://github.com/lemonchann/images/raw/master/gzh/公众号二维码.png" width="300" height="300"/>
+</p>
