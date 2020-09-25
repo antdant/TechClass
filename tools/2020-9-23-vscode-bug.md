@@ -214,7 +214,7 @@ issue 标题： `C/C++ Extension 1.0.0 some feature Not working When using in Re
 
 **到了这里，这个bug从出现在我的机子上，到定位查找，最终修复算是完美的解决**。这里附上官方的版本链接：https://github.com/microsoft/vscode-cpptools/releases ，里面有提到本次修复的bug。
 
-![image-20200924230209453](C:/Users/linlongchen/AppData/Roaming/Typora/typora-user-images/image-20200924230209453.png)
+![](https://github.com/lemonchann/images/raw/master/tools/vscode_bug_find/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0.png)
 
 按照最新的1.0.0 版本发布说明，**如果你使用 Linux/MAC 版本的VSCode 或者像我这样用远程开发的方式从宿主机使用Linux版本，可能会遇到我文中说的bug**，我是在0.29.0自动升级到1.0.0发现的bug，于是给1.0.0版本报了个issue，微软官方在1.0.1版本修复了上述的bug，**一张图看清时间线**。
 
