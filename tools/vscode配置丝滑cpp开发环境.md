@@ -1,3 +1,5 @@
+**本文首发个人微信公众号**，[点击阅读原文](http://mp.weixin.qq.com/s?__biz=MzIwMjM4NDE1Nw==&mid=100002381&idx=1&sn=295d82c9a0923f769a2822895d9b565f&chksm=16de3c3f21a9b529d1577e0c4d5f43d2acacb6bd39c2a1d20ddfd6993bca2ebde23161bc62cc#rd)
+
 大家好我是lemon，上次推送的文章，虽然不是技术文，但热度非常高，刚来的小伙伴可以点击这里「链接」，仅一天时间阅读数就达到 1000+ ，目前为止有 16 位土豪朋友赞赏，这也是写公众号这半年来收获点赞最多、赞赏最多的文章（作为一个技术号主，高赞竟然不是技术文，哭死）。
 
 ![](https://github.com/lemonchann/images/raw/master/tools/vscode_cpp_env/赞赏截图.jpg)

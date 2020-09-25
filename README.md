@@ -77,6 +77,10 @@
 
 [MySql 事务详解 10 个事务面试FQA](database/mysql/面试官：你说对MySQL事务很熟？那我问你10个问题.md)
 
+[MySQL基础知识点总结](database/mysql/MySQL基础知识点总结.md)
+
+[MySQL进阶知识点总结](database/mysql/Mysql进阶知识点总结.md)
+
 [MySql 索引](database/mysql/mysql系列_索引.md)
 
 [Redis系列](database/redis/readme.md)
@@ -105,6 +109,8 @@
 
 [Go面向对象方法和接口](go/tour_go/method_and_if.md)
 
+
+
 ## 工具
 
 [史上最香vscode远程开发环境，工作效率提升10倍](tools/vscode远程开发.md)
@@ -119,7 +125,11 @@
 
 [手动DIY一个自己的图床，再也不怕第三方图床gg了](tools/github_pic_bed.md)
 
-## 
+[用好VSCode这13款插件和8个快捷键，工作效率提升10倍](toos/vscode配置丝滑cpp开发环境.md)
+
+[我给VSCode报了个bug，微软工程师竟然凌晨修复了...](tools/2020-9-23-vscode-bug.md)
+
+
 
 
 
