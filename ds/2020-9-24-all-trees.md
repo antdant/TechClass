@@ -14,7 +14,16 @@
 
 ### 应用场景
 
-学习C++的同学都知道会接触到 STL 标准库，STL
+红黑树在实际应用中有很多已经落地的实践，比如学习C++的同学都知道会接触到 STL 标准库，而STL容器中的map、set、multiset、multimap 底层实现都是基于红黑树。 
+
+再比如，Linux内核中也有红黑树的实现，内核中的红黑树定义文件在：
+
+```c
+头文件：linux-version/include/linux/rbtree.h 
+源文件：linux-version/lib/rbtree.c
+```
+
+
 
 ### 结构特点
 
